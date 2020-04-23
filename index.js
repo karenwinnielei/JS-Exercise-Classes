@@ -97,8 +97,7 @@ class Car {
     
     }
   }
-const carOne = new Car();
-console.log(carOne.drive(15));
+
 
 /*
   TASK 3
